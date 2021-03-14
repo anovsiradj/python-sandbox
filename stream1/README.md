@@ -30,3 +30,6 @@ python3 ./watch.py
 # padahal kalo pake ini, bisa:
 ffplay -rtsp_transport tcp rtsp://localhost:8554/livestream
 ```
+
+# Referensi
+<https://superuser.com/a/1570635>
